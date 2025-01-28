@@ -10,17 +10,17 @@ Preprocessing and analysis of behavioral and EEG data for the article "Exploring
 # EEG data
 1. cleaningPipeline
 # Stimulus-Locked analysis
-1. unfoldAAB_picOnset
-2. TFCE
-3. figures3_4EEG
-4. figures5_6EEG
+2. unfoldAAB_picOnset
+3. TFCE
+4. figures3_4EEG
+5. figures5_6EEG
 # Response-Locked analysis
-1. unfoldAAB_movOnset
-2. TFCE
-3. figures3_4EEG
-4. figures7_8EEG
+2. unfoldAAB_movOnset
+3. TFCE
+4. figures3_4EEG
+5. figures7_8EEG
 # Frontal Alphay Asymmetry
-1. epochingPictureOnset
-2. computeMeasures
-3. concatSubjects
-4. FAA_statistics
+2. epochingPictureOnset
+3. computeMeasures
+4. concatSubjects
+5. FAA_statistics
