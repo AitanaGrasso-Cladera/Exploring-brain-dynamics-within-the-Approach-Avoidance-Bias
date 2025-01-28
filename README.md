@@ -1,5 +1,6 @@
 #  README
 Preprocessing and analysis of behavioral and EEG data for the article "Exploring brain dynamics within the Approach Avoidance Bias".
+Data availability: https://osf.io/4fmw9/
 
 # Behavioral data
 1. preprocessingBehavioralData
