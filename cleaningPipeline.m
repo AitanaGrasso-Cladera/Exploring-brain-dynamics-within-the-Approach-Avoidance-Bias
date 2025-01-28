@@ -17,13 +17,13 @@ elseif step2
     saveFolder = [projectFolder,filesep,'Step_2'];
 elseif step3
     dataFolder = [projectFolder,filesep,'Step_2'];
-    saveFolder = [projectFolder,filesep,'Step_3',filesep,'noBurst'];
+    saveFolder = [projectFolder,filesep,'Step_3'];
 elseif step4
-    dataFolder = [projectFolder,filesep,'Step_3',filesep,'noBurst'];
-    saveFolder = [projectFolder,filesep,'Step_4',filesep,'noBurst'];
+    dataFolder = [projectFolder,filesep,'Step_3'];
+    saveFolder = [projectFolder,filesep,'Step_4'];
 elseif step5
-    dataFolder = [projectFolder,filesep,'Step_4',filesep,'noBurst'];
-    saveFolder = [projectFolder,filesep,'Step_5',filesep,'noBurst'];
+    dataFolder = [projectFolder,filesep,'Step_4'];
+    saveFolder = [projectFolder,filesep,'Step_5'];
 end
 addpath(root)
 addpath(dataFolder)
