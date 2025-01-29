@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use these scripts, please cite it as below."
+authors:
+- family-names: "Grasso-Cladera"
+  given-names: "Aitana"
+  orcid: "https://orcid.org/0000-0003-3435-3608"
+- family-names: "Nolte"
+  given-names: "Debora"
+  orcid: "https://orcid.org/0009-0007-0246-4481"
+title: "Exploring-brain-dynamics-within-the-Approach-Avoidance-Bias"
+version: 1.0
+doi: 
+date-released:
+url: "https://github.com/AitanaGrasso-Cladera/Exploring-brain-dynamics-within-the-Approach-Avoidance-Bias"
